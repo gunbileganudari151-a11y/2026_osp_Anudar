@@ -1,1 +1,2 @@
-# 2026_osp_Anudar
+# practice 1 for open SW
+
